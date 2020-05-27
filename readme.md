@@ -7,4 +7,5 @@
 - [npm 관련](./npm/index.md)
 - [swagger 관련](./swagger/index.md)
 - [typescript 관련](./typescript/index.md)
+- [vcpkg 관련](./vcpkg/index.md)
 - [vscode 관련](./vscode/index.md)
