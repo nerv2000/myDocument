@@ -8,5 +8,5 @@
 - [swagger 관련](./swagger/index.md)
 - [typescript 관련](./typescript/index.md)
 - [vcpkg 관련](./vcpkg/index.md)
-- [visual studio 관련](./vs/index)
+- [visual studio 관련](./vs/index.md)
 - [vscode 관련](./vscode/index.md)
